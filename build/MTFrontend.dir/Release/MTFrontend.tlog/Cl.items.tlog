@@ -1,0 +1,5 @@
+C:\Users\Usuario\Downloads\minitriton\lib\Frontend\Lexer.cpp;C:\Users\Usuario\Downloads\minitriton\build\MTFrontend.dir\Release\Lexer.obj
+C:\Users\Usuario\Downloads\minitriton\lib\Frontend\Parser.cpp;C:\Users\Usuario\Downloads\minitriton\build\MTFrontend.dir\Release\Parser.obj
+C:\Users\Usuario\Downloads\minitriton\lib\AST\AST.cpp;C:\Users\Usuario\Downloads\minitriton\build\MTFrontend.dir\Release\AST.obj
+C:\Users\Usuario\Downloads\minitriton\lib\AST\ASTprinter.cpp;C:\Users\Usuario\Downloads\minitriton\build\MTFrontend.dir\Release\ASTprinter.obj
+C:\Users\Usuario\Downloads\minitriton\lib\Semantic\TypeChecker.cpp;C:\Users\Usuario\Downloads\minitriton\build\MTFrontend.dir\Release\TypeChecker.obj

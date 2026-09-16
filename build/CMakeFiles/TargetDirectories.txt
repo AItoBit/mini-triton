@@ -1,0 +1,8 @@
+C:/Users/Usuario/Downloads/minitriton/build/CMakeFiles/MTFrontend.dir
+C:/Users/Usuario/Downloads/minitriton/build/CMakeFiles/minitriton.dir
+C:/Users/Usuario/Downloads/minitriton/build/CMakeFiles/lexer_test.dir
+C:/Users/Usuario/Downloads/minitriton/build/CMakeFiles/parser_test.dir
+C:/Users/Usuario/Downloads/minitriton/build/CMakeFiles/type_checker_test.dir
+C:/Users/Usuario/Downloads/minitriton/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Usuario/Downloads/minitriton/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Usuario/Downloads/minitriton/build/CMakeFiles/ZERO_CHECK.dir

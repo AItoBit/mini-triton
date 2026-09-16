@@ -1,0 +1,48 @@
+Start testing: Sep 16 09:41 Romance Daylight Time
+----------------------------------------------------------
+1/3 Testing: LexerTest
+1/3 Test: LexerTest
+Command: "C:/Users/Usuario/Downloads/minitriton/build/Release/lexer_test.exe"
+Directory: C:/Users/Usuario/Downloads/minitriton/build
+"LexerTest" start time: Sep 16 09:41 Romance Daylight Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"LexerTest" end time: Sep 16 09:41 Romance Daylight Time
+"LexerTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/3 Testing: ParserTest
+2/3 Test: ParserTest
+Command: "C:/Users/Usuario/Downloads/minitriton/build/Release/parser_test.exe"
+Directory: C:/Users/Usuario/Downloads/minitriton/build
+"ParserTest" start time: Sep 16 09:41 Romance Daylight Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"ParserTest" end time: Sep 16 09:41 Romance Daylight Time
+"ParserTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/3 Testing: TypeCheckerTest
+3/3 Test: TypeCheckerTest
+Command: "C:/Users/Usuario/Downloads/minitriton/build/Release/type_checker_test.exe"
+Directory: C:/Users/Usuario/Downloads/minitriton/build
+"TypeCheckerTest" start time: Sep 16 09:41 Romance Daylight Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"TypeCheckerTest" end time: Sep 16 09:41 Romance Daylight Time
+"TypeCheckerTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 16 09:41 Romance Daylight Time

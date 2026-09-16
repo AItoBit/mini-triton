@@ -1,0 +1,7 @@
+LexerTest 0 0
+ParserTest 0 0
+TypeCheckerTest 0 0
+---
+LexerTest
+ParserTest
+TypeCheckerTest
